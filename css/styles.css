@@ -3,10 +3,10 @@
   font-family: serif;
 }
 
-#money {
+.money {
   color: rgb(62, 165, 62);
 }
 
-.h2 {
-  text-decoration: deeppink;
+.sake {
+  color: rgb(81, 119, 190);
 }
